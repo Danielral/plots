@@ -1,4 +1,4 @@
 # plots
 
-BLUE: Sersic Model and SpecZ\n
-RED : Cmagnitudes(BPZ) and Mizuki
+#BLUE: Sersic Model and SpecZ
+#RED : Cmagnitudes(BPZ) and Mizuki
